@@ -22,7 +22,11 @@ Verification
 4) Changed OSPF interface cost to change route selection
 5) Restored and verified original configuration 
 
-
+Files
+Configurations/
+Verifications/
+Topology/
+packet-tracer/
 
 
 
