@@ -6,7 +6,8 @@ Objective
 
 Network Topology
 
-<img width="429" height="654" alt="Topology" src="https://github.com/user-attachments/assets/a94452f8-a4db-445b-a21e-2a41c22d0b78" />
+<img width="310" height="454" alt="Network Topology" src="https://github.com/user-attachments/assets/3d45822e-1067-4a26-bccc-4d197c7f00fe" />
+
 
 
 - 3 Cisco routers
