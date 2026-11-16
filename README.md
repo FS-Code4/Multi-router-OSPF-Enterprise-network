@@ -10,12 +10,4 @@ Network Topology
 
 
 
-- 3 Cisco routers
-- 3 Cisco switches
-- 3 PCs
-
-Network Configuration and Implementation
-
-1. OSPF Configuration
-2. OSPF 
 
