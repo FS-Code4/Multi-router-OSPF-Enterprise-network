@@ -23,10 +23,10 @@ Verification
 5) Restored and verified original configuration 
 
 Files
-[Topology/](Topology)
-[Configurations/](Configurations)
-[packet-tracer/](<Packet Tracer>)
-[Verifications/](Verifications)
+- [Topology/](Topology)
+- [Configurations/](Configurations)
+- [packet-tracer/](<Packet Tracer>)
+- [Verifications/](Verifications)
 
 
 
